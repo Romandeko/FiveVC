@@ -2,6 +2,7 @@
 import UIKit
 
 class ThirdViewController: UIViewController {
+    
     // MARK: - Public properties
     var lastMessage : String = ""
     var backMessage = GoBack(firstLine: "", secondLine: "", thirdLine: "")
